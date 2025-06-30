@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # TaskMate ✅🗂️
 
@@ -51,6 +50,3 @@ To create an optimized build for production:
 
 
 n
-=======
-# taskmate
->>>>>>> 6f6e06cf548de48cdf44262beadc63f103361fe5
